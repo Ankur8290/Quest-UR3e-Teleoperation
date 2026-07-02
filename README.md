@@ -1,7 +1,7 @@
 # Quest-UR3e Teleoperation Framework
 
 Mixed Reality Teleoperation of a Universal Robots UR3e
-using Meta Quest 3.
+using Meta Quest 3/3s.
 
 Features
 
