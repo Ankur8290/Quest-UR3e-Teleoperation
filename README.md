@@ -2,7 +2,7 @@
 
 Mixed Reality Teleoperation of a Universal Robots UR3e
 using Meta Quest 3/3s.
-
+Video Link https://youtu.be/hq68BAeUli4
 Features
 
 ✔ Mixed Reality Passthrough
