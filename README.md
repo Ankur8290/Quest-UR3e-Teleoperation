@@ -1097,7 +1097,7 @@ If you use this project in academic research, please cite:
   author = {Ankur Shrivastava},
   title = {Quest-UR3e Mixed Reality Teleoperation Framework},
   year = {2026},
-  url = {https://github.com/YOUR_USERNAME/Quest-UR3e-Teleoperation}
+  url = {https://github.com/Ankur8290/Quest-UR3e-Teleoperation}
 }
 ```
 
@@ -1105,9 +1105,7 @@ If you use this project in academic research, please cite:
 
 # License
 
-This project is released under the license specified in `LICENSE`.
-
-Third-party components, SDKs, robot software, Unity packages, and other dependencies remain subject to their respective licenses.
+MIT License
 
 ---
 
