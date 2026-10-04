@@ -1043,7 +1043,7 @@ Environment-specific parameters should be stored in configuration files rather t
 | Unity → UR coordinate mapping   | ✅ Prototype     |
 | UR3e RTDE communication         | ✅ Working       |
 | Cartesian target generation     | ✅ Working       |
-| Live teleoperation              | 🔬 Experimental |
+| Live teleoperation              | ✅ Working       |
 
 ---
 
