@@ -1126,7 +1126,7 @@ Please refer to the respective projects and documentation for their licensing an
 
 # Contact
 
-For questions, research collaboration, or technical discussion, please open a GitHub issue or contact the project author.
+For questions, research collaboration, or technical discussion, please open a GitHub issue or contact via ankurshrivastava8290@gmail.com .
 
 **Project:** Quest–UR3e Mixed Reality Teleoperation
 **Platform:** Meta Quest 3 + Universal Robots UR3e
